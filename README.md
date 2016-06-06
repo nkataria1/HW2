@@ -3,8 +3,9 @@ This package has following classes:
 1. Animal --> Animal.java
 2. TortoiseRacer --> TortoiseRacer.java
 3. TortoiseRacerClient --> TortoiseRacerClient.java
-6. javadoc --> Java Documentation (.html) for Animal (Animal.html), TortoiseRacer (TortoiseRacer.html), 
+4. javadoc --> Java Documentation (.html) for Animal (Animal.html), TortoiseRacer (TortoiseRacer.html), 
 		TortoiseRacerClient (TortoiseRacerClient.html)
+5. TortoiseRacerClientTest.html -> Test webpage to load the applet.
 
 Steps to Compile:
 
